@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AtaqueProjActivity!</string>
+    <string name="app_name">AtaqueProj</string>
+	<string name="restart">Tecle MENU para jogar.</string>
+	<string name="inicio">www.thecodebakers.org</string>
+</resources>
